@@ -1,5 +1,5 @@
 # Die Regeln
-**Looserball.** Der Verlierer des letzten Spiels, oder der, der das letzte Tor kassiert hat, hat Anstoß in der Mitte.
+**Loserball.** Der Verlierer des letzten Spiels, oder der, der das letzte Tor kassiert hat, hat Anstoß in der Mitte.
 
 **Ruhig bleiben.** Bevor ein Tor aus der Mitte geschossen werden darf, muss der Ball einmal das Mittelfeld verlassen haben. Schießt doch jemand ein Tor, hat der Gegenspieler Anstoß in der Mitte.
 
